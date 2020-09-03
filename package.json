@@ -1,7 +1,11 @@
 {
+  "scripts": {
+    "simple": "ts-node src/simple/main.ts"
+  },
   "dependencies": {
     "fp-ts": "^2.8.2",
     "ts-node": "^9.0.0",
     "typescript": "^4.0.2"
-  }
+  },
+  "private": true
 }
